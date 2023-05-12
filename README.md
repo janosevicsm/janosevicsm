@@ -1,16 +1,19 @@
-### Hi there 👋
+## About me ✏️
 
-<!--
-**janosevicsm/janosevicsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Marko and I'm currently a third-year software engineering student at the Faculty of Techincal Sciences, University of Novi Sad. Recently I have been working on several projects, written in different programming languages such as Java, C#, Python, Angular, Go, etc. In my spare time, I like to improve my knowledge in the field of graphic design and UI/UX design.
 
-Here are some ideas to get you started:
+## Projects that I currently work on 💻
+### Cyber Security App for X509 Certificates
+- [Backend](https://github.com/ThreeAmigosCoding/IB-Tim14-Backend)
+- [Frontend](https://github.com/ThreeAmigosCoding/IB-Tim14-Frontend)
+### File Fusion
+- [Backend](https://github.com/ThreeAmigosCoding/File-Fusion-Backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Finished projects ✅
+### Cabby - Ride-Hailing
+- Backend
+- Frontend
+- Mobile (Android)
+### [Health Institution](https://github.com/janosevicsm/Health-Institution)
+### [Cooky](https://github.com/ThreeAmigosCoding/RecipesApp)
+### [Toll Booth](https://github.com/jokicjovan/Toll-Booth)
