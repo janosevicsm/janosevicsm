@@ -8,6 +8,7 @@ Hi, my name is Marko and I'm currently a third-year software engineering student
 - [Frontend](https://github.com/ThreeAmigosCoding/IB-Tim14-Frontend)
 ### File Fusion
 - [Backend](https://github.com/ThreeAmigosCoding/File-Fusion-Backend)
+### [Graph Parser and Visualizator](https://gitlab.com/sok_2022_2023/tim14)
 
 ## Finished projects ✅
 ### Cabby - Ride-Hailing
