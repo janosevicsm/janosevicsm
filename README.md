@@ -8,8 +8,6 @@ Hi, my name is Marko and I'm currently a third-year software engineering student
 - [Frontend](https://github.com/ThreeAmigosCoding/IB-Tim14-Frontend)
 ### File Fusion
 - [Backend](https://github.com/ThreeAmigosCoding/File-Fusion-Backend)
-### [Tourismo](https://github.com/ThreeAmigosCoding/Tourismo)
-### [Graph Parser and Visualizator](https://github.com/ThreeAmigosCoding/tim14)
 
 ## Finished projects ✅
 ### Cabby - Ride-Hailing
@@ -19,3 +17,5 @@ Hi, my name is Marko and I'm currently a third-year software engineering student
 ### [Health Institution](https://github.com/janosevicsm/Health-Institution)
 ### [Cooky](https://github.com/ThreeAmigosCoding/RecipesApp)
 ### [Toll Booth](https://github.com/jokicjovan/Toll-Booth)
+### [Tourismo](https://github.com/ThreeAmigosCoding/Tourismo)
+### [Graph Parser and Visualizator](https://github.com/ThreeAmigosCoding/tim14)
