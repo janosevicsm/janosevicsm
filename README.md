@@ -21,3 +21,6 @@ Hi, my name is Marko and I'm currently a third-year software engineering student
 ### Stock Prophet
 - [Backend](https://github.com/ThreeAmigosCoding/StockProphet)
 - [Frontend](https://github.com/ThreeAmigosCoding/StockProphetFrontend)
+### Data Track (SCADA)
+- [Backend](https://github.com/ThreeAmigosCoding/DataTrack)
+- [Frontend](https://github.com/ThreeAmigosCoding/DataTrackFrontend)
