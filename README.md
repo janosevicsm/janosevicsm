@@ -24,3 +24,5 @@ Hi, my name is Marko and I'm currently a third-year software engineering student
 ### Data Track (SCADA)
 - [Backend](https://github.com/ThreeAmigosCoding/DataTrack)
 - [Frontend](https://github.com/ThreeAmigosCoding/DataTrackFrontend)
+### [OpenGL C++ 3D Drone Simulation](https://github.com/janosevicsm/UAV)
+
