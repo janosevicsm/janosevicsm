@@ -1,6 +1,6 @@
 ## About me ✏️
 
-Hi, my name is Marko and I'm currently a third-year software engineering student at the Faculty of Techincal Sciences, University of Novi Sad. Recently I have been working on several projects, written in different programming languages such as Java, C#, Python, Angular, Go, etc. In my spare time, I like to improve my knowledge in the field of graphic design and UI/UX design.
+Hi, my name is Marko and I'm currently a fourth-year software engineering student at the Faculty of Techincal Sciences, University of Novi Sad. Recently I have been working on several projects, written in different programming languages such as Java, C#, Python, Angular, Go, etc. In my spare time, I like to improve my knowledge in the field of graphic design and UI/UX design.
 
 ## Finished projects ✅
 ### Cabby - Ride-Hailing
