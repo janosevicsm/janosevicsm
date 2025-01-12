@@ -1,6 +1,12 @@
 ## About me ✏️
 
-Hi, my name is Marko and I'm currently a fourth-year software engineering student at the Faculty of Techincal Sciences, University of Novi Sad. Recently I have been working on several projects, written in different programming languages such as Java, C#, Python, TypeScript, Go, etc. In my spare time, I like to improve my knowledge in the field of graphic design and UI/UX design.
+Hello, my name is Marko, and I'm currently enrolled in master studies in computer science at the Faculty of Technical Sciences in Novi Sad, Serbia. Recently I have been working on several projects, written in different programming languages such as Java, C#, Python, TypeScript, Go, etc.
+<br/>
+Most of my programming projects are collaborative efforts with my friends/colleagues, and you can find our repositories at
+<br/>
+**[Three Amigos Coding](https://github.com/orgs/ThreeAmigosCoding/repositories)**.
+<br/>
+In my spare time, I like to improve my knowledge in the field of graphic design and UI/UX design.
 
 ## Languages and Tools 💻
 
@@ -18,6 +24,7 @@ Hi, my name is Marko and I'm currently a fourth-year software engineering studen
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
 <br/>
 
